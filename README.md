@@ -1,4 +1,0 @@
-TNG
-===
-
-TNG Files
