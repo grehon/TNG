@@ -1,0 +1,12 @@
+bmp/*
+pdf/*
+tiff/* 
+tiffCurrent/*
+logs/*
+tiffMan/*
+tiffCurrentMan/* 
+tmp/* 
+*.log
+*.process
+*.report
+login.cfg
