@@ -1,0 +1,3586 @@
+7
+08/01/2014
+Caught: org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:122)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:66)
+	at org.postgresql.jdbc2.AbstractJdbc2Connection.<init>(AbstractJdbc2Connection.java:125)
+	at org.postgresql.jdbc3.AbstractJdbc3Connection.<init>(AbstractJdbc3Connection.java:30)
+	at org.postgresql.jdbc3.Jdbc3Connection.<init>(Jdbc3Connection.java:24)
+	at org.postgresql.Driver.makeConnection(Driver.java:382)
+	at org.postgresql.Driver.connect(Driver.java:260)
+	at tif_generation.run(tif_generation.groovy:119)
+Caused by: java.net.ConnectException: Operation timed out
+	at org.postgresql.core.PGStream.<init>(PGStream.java:59)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:77)
+	... 7 more
+8
+07/31/2014
+Caught: org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:122)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:66)
+	at org.postgresql.jdbc2.AbstractJdbc2Connection.<init>(AbstractJdbc2Connection.java:125)
+	at org.postgresql.jdbc3.AbstractJdbc3Connection.<init>(AbstractJdbc3Connection.java:30)
+	at org.postgresql.jdbc3.Jdbc3Connection.<init>(Jdbc3Connection.java:24)
+	at org.postgresql.Driver.makeConnection(Driver.java:382)
+	at org.postgresql.Driver.connect(Driver.java:260)
+	at tif_generation.run(tif_generation.groovy:119)
+Caused by: java.net.ConnectException: Operation timed out
+	at org.postgresql.core.PGStream.<init>(PGStream.java:59)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:77)
+	... 7 more
+9
+07/30/2014
+Caught: org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:122)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:66)
+	at org.postgresql.jdbc2.AbstractJdbc2Connection.<init>(AbstractJdbc2Connection.java:125)
+	at org.postgresql.jdbc3.AbstractJdbc3Connection.<init>(AbstractJdbc3Connection.java:30)
+	at org.postgresql.jdbc3.Jdbc3Connection.<init>(Jdbc3Connection.java:24)
+	at org.postgresql.Driver.makeConnection(Driver.java:382)
+	at org.postgresql.Driver.connect(Driver.java:260)
+	at tif_generation.run(tif_generation.groovy:119)
+Caused by: java.net.ConnectException: Operation timed out
+	at org.postgresql.core.PGStream.<init>(PGStream.java:59)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:77)
+	... 7 more
+10
+07/29/2014
+Caught: org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:122)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:66)
+	at org.postgresql.jdbc2.AbstractJdbc2Connection.<init>(AbstractJdbc2Connection.java:125)
+	at org.postgresql.jdbc3.AbstractJdbc3Connection.<init>(AbstractJdbc3Connection.java:30)
+	at org.postgresql.jdbc3.Jdbc3Connection.<init>(Jdbc3Connection.java:24)
+	at org.postgresql.Driver.makeConnection(Driver.java:382)
+	at org.postgresql.Driver.connect(Driver.java:260)
+	at tif_generation.run(tif_generation.groovy:119)
+Caused by: java.net.ConnectException: Operation timed out
+	at org.postgresql.core.PGStream.<init>(PGStream.java:59)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:77)
+	... 7 more
+11
+07/28/2014
+Caught: org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:122)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:66)
+	at org.postgresql.jdbc2.AbstractJdbc2Connection.<init>(AbstractJdbc2Connection.java:125)
+	at org.postgresql.jdbc3.AbstractJdbc3Connection.<init>(AbstractJdbc3Connection.java:30)
+	at org.postgresql.jdbc3.Jdbc3Connection.<init>(Jdbc3Connection.java:24)
+	at org.postgresql.Driver.makeConnection(Driver.java:382)
+	at org.postgresql.Driver.connect(Driver.java:260)
+	at tif_generation.run(tif_generation.groovy:119)
+Caused by: java.net.ConnectException: Operation timed out
+	at org.postgresql.core.PGStream.<init>(PGStream.java:59)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:77)
+	... 7 more
+12
+07/27/2014
+Caught: org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:122)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:66)
+	at org.postgresql.jdbc2.AbstractJdbc2Connection.<init>(AbstractJdbc2Connection.java:125)
+	at org.postgresql.jdbc3.AbstractJdbc3Connection.<init>(AbstractJdbc3Connection.java:30)
+	at org.postgresql.jdbc3.Jdbc3Connection.<init>(Jdbc3Connection.java:24)
+	at org.postgresql.Driver.makeConnection(Driver.java:382)
+	at org.postgresql.Driver.connect(Driver.java:260)
+	at tif_generation.run(tif_generation.groovy:119)
+Caused by: java.net.ConnectException: Operation timed out
+	at org.postgresql.core.PGStream.<init>(PGStream.java:59)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:77)
+	... 7 more
+13
+07/26/2014
+Caught: org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+org.postgresql.util.PSQLException: Connection refused. Check that the hostname and port are correct and that the postmaster is accepting TCP/IP connections.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:122)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:66)
+	at org.postgresql.jdbc2.AbstractJdbc2Connection.<init>(AbstractJdbc2Connection.java:125)
+	at org.postgresql.jdbc3.AbstractJdbc3Connection.<init>(AbstractJdbc3Connection.java:30)
+	at org.postgresql.jdbc3.Jdbc3Connection.<init>(Jdbc3Connection.java:24)
+	at org.postgresql.Driver.makeConnection(Driver.java:382)
+	at org.postgresql.Driver.connect(Driver.java:260)
+	at tif_generation.run(tif_generation.groovy:119)
+Caused by: java.net.ConnectException: Operation timed out
+	at org.postgresql.core.PGStream.<init>(PGStream.java:59)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:77)
+	... 7 more
+7
+08/01/2014
+1299603507
+1300401307
+1871233557
+1871237057
+1299642807
+1300417707
+1300413507
+1872189456
+1299515407
+1872189556
+8996160
+1871854704
+1316849702
+1317375702
+8948785
+1871232157
+1871228357
+1317376802
+1871850804
+1871877510
+1871880710
+8996158
+1872531010
+1871854604
+1871846704
+8996116
+8996117
+8996156
+8996153
+8996162
+1871850604
+1871883510
+1871236357
+1316850802
+1316853002
+1316851102
+1316848702
+1316850902
+1316851702
+1871227757
+1871235657
+1299603607
+1300401407
+1871235957
+1872623557
+1871236157
+1871237257
+1299642907
+1299644007
+1300413607
+1872620357
+1316849402
+1316848602
+1871880610
+1317378402
+1316852502
+8984248
+1871225757
+1300401207
+1300417807
+1300411807
+1300417607
+1871236057
+8996320
+8996323
+8996324
+8996325
+8996309
+1872531710
+1871855404
+1872530910
+1871850004
+8996159
+1871875610
+1871232957
+1872529410
+1872137744
+1872184956
+1872185456
+1872187356
+1872187456
+1872187856
+1872189956
+1872189656
+1872194056
+1872227842
+1872227656
+1872227556
+1872227356
+1872245242
+1872245542
+1872245142
+1872157735
+1872157835
+1872158235
+1872161235
+1872161335
+1872161435
+1872179743
+1872183643
+1872529510
+1871852304
+1871233057
+1872529810
+1871540603
+1871854304
+1299645107
+1299642707
+1299643507
+1299643907
+1299643007
+1299644107
+1871875510
+1872622657
+1871233157
+1871881010
+1871854104
+1871227357
+1299515207
+1299515507
+1871849404
+1871855804
+1872620157
+1871235457
+1871855304
+1872529304
+1872529204
+1871854004
+1872529004
+1871227457
+1871853904
+1871855204
+1871856404
+1871878610
+1871233457
+1871235557
+1871851904
+1872527503
+1872528804
+1871853804
+1871849204
+1871230157
+1299801507
+1300507407
+1871851804
+1871878310
+1871853704
+1871227557
+1872528704
+1871852104
+1871856304
+1871878710
+1872528504
+1871814103
+1299603407
+1872622757
+1871233357
+1872623457
+1871235857
+1871236657
+1299645607
+1300412007
+1871228057
+1872622157
+1872529104
+1871881110
+1871880910
+1871849004
+1871232057
+1871225157
+1871228157
+1872530610
+1872528304
+1871854904
+1871878110
+1871230357
+1872620257
+1871880810
+1871848904
+1872528404
+1871853404
+1299643807
+1871236557
+1871236857
+1299645507
+1871232257
+1299515007
+1872528204
+8996161
+1871856104
+1871854804
+1871850904
+1871227657
+1871225257
+1871231957
+1871228257
+1871824112
+1872530710
+1871853304
+1871883410
+1871851004
+1871228757
+1300247807
+1872534312
+1872534212
+1872527203
+1872527403
+1872527303
+1872527103
+1872492503
+1317377002
+1299787007
+1299786907
+1872531110
+1872531410
+1872531210
+1872530210
+1872529710
+1872530110
+1872528904
+1872528604
+1872531310
+1872623757
+1872622557
+1872623357
+1872195256
+1300241607
+1871539703
+1872155135
+1872182042
+1872189156
+1300474707
+1300507507
+1871882710
+1871821912
+1871825112
+1871881310
+1871881210
+1871855004
+1871813903
+1871852204
+1871855104
+1871851404
+1871846904
+1871851604
+1871846804
+1871834712
+1871851104
+1871877710
+1871848704
+1871848804
+1871848504
+1871878510
+1871849104
+1871849304
+1871849904
+1871890510
+1871849704
+1871847204
+1871880210
+1871879410
+1871881810
+1872183743
+1872183543
+1299520007
+1871891310
+1871855904
+1871856504
+1871856604
+1871853604
+1871853004
+1871852704
+1871852604
+1871853504
+1871890810
+1871891210
+1871890910
+1871891010
+1871854204
+1871891110
+1871856204
+6042816857
+6042816757
+1316847902
+1871228557
+1299512507
+1300241407
+1871227857
+1317375502
+1299519607
+1871855504
+1871854504
+1316849502
+1300248507
+1299604707
+1300405307
+1299603707
+1300401507
+1299603807
+1300401607
+1299645407
+1300411607
+1872622257
+1871232357
+1316852602
+1317378502
+1316851002
+1317376902
+1871825012
+1871822012
+1872531610
+1871850304
+1871825612
+8996163
+1871834512
+1871880510
+1317375202
+1316849102
+1871848604
+8996154
+1871853204
+1871880410
+1872531510
+1871814003
+1316851202
+1317377102
+1871228657
+1317375802
+1316849802
+1871232457
+1871854404
+1871825212
+1871890310
+1871853104
+1871812803
+1871855704
+1299603907
+1300401707
+1871233957
+1299643307
+1300418207
+1299643107
+1300418007
+1316851302
+1317377202
+1871890610
+1871850404
+1871848404
+8996326
+1871855604
+1317375402
+1316849302
+1317377302
+1316851402
+1872527003
+1871849604
+1871834612
+1871880110
+1871852904
+1871856004
+1317375602
+1316849602
+1317378602
+1316852702
+1300417907
+1871235357
+1299645307
+1300411407
+1871232557
+1871848304
+1871813803
+1871825412
+1316852402
+1317378302
+1316848102
+1317374402
+1872561010
+1871891410
+1871852804
+1871882610
+1299512707
+1316851502
+1317377402
+8996157
+1871848204
+1871825512
+1871890410
+1871882510
+1871879510
+1299604607
+1300405207
+1299604907
+1300405507
+1299604007
+1300401807
+1872622957
+1299643207
+1300418107
+1871233857
+1871225857
+1316848002
+1317374302
+1871227957
+1317377502
+1316851602
+1871849804
+1871882410
+1317374802
+1871228957
+1300244207
+1299515307
+1317376302
+1316850302
+1871852504
+8996321
+1871825312
+1871814203
+1871883710
+1317377702
+1316851802
+1871232657
+1299603307
+1300401107
+1299604107
+1299643407
+1300418307
+1300401907
+1317377602
+1316850102
+1317376102
+8996168
+1871834412
+8996148
+1871883610
+1871852404
+1317375302
+1316849202
+1871229057
+1317377802
+1316851902
+1871225957
+1299786807
+1300474507
+1871882210
+1316850202
+1317376202
+1316852002
+1317377902
+1316848502
+1871233257
+1872622857
+1871233757
+1300418407
+1299645007
+1300410807
+1871226057
+8996146
+1871883310
+1317376602
+1316850602
+1317378202
+1316852302
+1872622357
+1871883110
+8996328
+1871835012
+1872530810
+8996144
+1316852202
+1317378102
+1317374602
+1316848302
+1317376702
+1299512807
+1316850702
+1300241707
+1871226157
+1300474607
+1871233657
+1299643607
+1300418507
+1300411007
+1872622457
+1317376402
+1316850402
+1299801707
+1300507607
+8996147
+1871225657
+1871835112
+8996330
+1871883210
+1300244407
+1316848402
+1317374702
+1316852102
+1317378002
+1317376502
+1316850502
+1317379102
+1316853202
+1317375102
+1316849002
+8996145
+1871890710
+1299604307
+1300404907
+1299643707
+1300418607
+1299512407
+1300241307
+1299801607
+1871881910
+1317376002
+1316850002
+1871226257
+1316853502
+1317379402
+1316848902
+1317375002
+8996143
+8996331
+1871835212
+1871232757
+1871232857
+1316848202
+1317374502
+1871882310
+1316849902
+1317375902
+1317379202
+1316853302
+8996329
+1871835312
+1317374202
+1317379002
+1316853102
+1871882110
+1317379302
+1316853402
+1871882010
+1317374902
+1316848802
+1871226356
+1317378802
+1316852902
+1299801007
+1300506907
+1317378702
+1316852802
+1871881710
+8996327
+1871835512
+1317378902
+1299605407
+1300406007
+1871881610
+8996332
+1871835612
+1872155435
+1871881510
+1871881410
+1299605307
+1300405907
+1872137844
+1870565842
+1872133744
+1872133644
+1872203556
+1872137444
+1872135644
+1872137644
+1871224256
+1871224356
+1871224456
+1871224556
+1300248407
+1299520107
+1300249007
+1300248907
+1300248607
+1299519707
+1300245407
+1299516607
+1299516507
+1300245507
+1300245207
+1300245107
+1300243907
+1300244307
+1300244107
+1300243607
+1299514707
+1300249707
+1300249807
+1299512607
+1300241507
+1872187056
+1872187156
+1872187256
+1872188756
+1872188856
+1872188956
+1872246242
+1299517307
+1300246207
+1299517407
+1300246307
+1300413707
+1300413407
+---0% --------20% --------40% --------60% --------80% -----/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1299603507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1299603507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1300401307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1300401307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1871233557.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1871233557.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1871237057.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1871237057.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1299642807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1299642807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1300417707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1300417707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1300413507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1300413507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1872189456.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1872189456.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1299515407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1299515407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1872189556.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1872189556.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/8996160.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/8996160.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1871854704.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1871854704.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1316849702.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1316849702.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/SAC/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1317375702.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1317375702.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/SAC/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/8948785.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/8948785.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1871232157.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1871232157.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1871228357.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/08/1871228357.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/null/
+08/08/2014
+Caught: java.io.FileNotFoundException: /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/404/Indexes.txt (No such file or directory)
+java.io.FileNotFoundException: /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/404/Indexes.txt (No such file or directory)
+	at tif_generation$_run_closure5.doCall(tif_generation.groovy:346)
+	at tif_generation.run(tif_generation.groovy:311)
+8
+07/31/2014
+
+
+
+
+1872502004
+1872497104
+1872490903
+1872498804
+1871678010
+1871672310
+1871672410
+8996121
+1298359107
+1299606007
+1871675510
+1871675610
+1871671910
+1872510510
+1871676610
+1872505904
+8996122
+1872510610
+1872505804
+1872511310
+1299520607
+1299518707
+1871677910
+1871639304
+1872505704
+1871676510
+1872496904
+1872497704
+1298359007
+1296922207
+1298072507
+1298360007
+1298360107
+1298359607
+1298359407
+1298359307
+8995301
+8995306
+8995302
+8995303
+8995314
+8995331
+8995334
+1871644104
+1870479835
+1870479935
+1870491143
+1870490943
+8994622
+8994623
+8994610
+8996267
+8996264
+1299052807
+1299052707
+1872510410
+1872502904
+1872510310
+1872496804
+1872509810
+1872505404
+1872510210
+1872500404
+1872496704
+1872498704
+1872505304
+1872514310
+1872509710
+1872504604
+1871641304
+1871643504
+1871674210
+1872500304
+1872500204
+1872509410
+1871643704
+1871671310
+1872509310
+1872500004
+1871640804
+1872507304
+1871674010
+1872507104
+1872509210
+1872496404
+1872513810
+1872499904
+1872501504
+1872490703
+1298359707
+1298360207
+1299052507
+1299052607
+1871625512
+1872502604
+1872499304
+1872500104
+1872509010
+1872505104
+1872502504
+1872490803
+1872499804
+1872496004
+1872498204
+1872501304
+1872508910
+1872507004
+1872490603
+1871510214
+1871677510
+1871671110
+1872505004
+1872506904
+1872504904
+1872511810
+1299605507
+1299605707
+1299606107
+1872512410
+1871677410
+1872508710
+1871677810
+1871510414
+8995299
+1871672610
+1872501204
+1872506804
+1872508810
+1872501104
+1872495804
+1872504704
+1872499504
+1872502304
+1871626812
+1872495704
+1871677310
+1298359907
+1298359507
+1299052907
+1299605607
+1871625812
+1872499704
+1872506704
+1871510314
+1872506604
+1872499604
+1872511610
+1872502204
+1871677710
+1871677610
+1872493703
+1872502104
+8995304
+1872497804
+1872497604
+1872499404
+1299605807
+1872491403
+8995296
+1872495504
+1871626012
+1872497504
+1872500904
+1872501904
+1872493903
+1872511410
+1872491503
+1297647907
+1298359807
+1299053007bad
+1298359207
+1299605907
+1872499204
+1872506404
+1872494103
+1872515210
+1871672210
+1872500704
+1872499104
+1872500804
+1872497404
+1872511510
+1872499004
+1871639404
+1872491003
+1871675410
+1872500604
+1871671810
+1872515610
+1872498904
+1872491203
+1872523914
+1299520507
+1872524214
+1872493603
+1872491903
+1872498504
+1872493803
+1872498004
+1872497304
+1872497004
+1872498304
+1872492103
+1872497904
+1872522114bad
+1872522214bad
+1872522314bad
+1872505604
+1872502804
+1872501604
+1872502704
+1872509910
+1872496604
+1872510110
+1872509610
+1872506504
+1872507504
+1872506304
+1872511710
+1872514710
+1872515010
+1872507404
+1872496304
+1871540303
+1871678410
+1871677110
+1871677010
+1871626212
+1871674410
+1871675710
+1871676810
+1871640504
+1871626412
+1871675010
+1871676910
+1871672110
+1871672010
+1871678310
+1872497204
+1872510810
+1872515510
+1872510710
+8995313
+8995315
+8995316
+8995311
+1871540403
+1872511010
+1872515310
+1299606207
+1298358907
+1872510910
+1872515110
+1871678210
+1871674910
+1872511110
+1872511210
+1871676410
+1872515410
+1871678110
+1871676310
+1299517107
+1871676210
+1871675810
+1299520707
+1871676710
+1871676110
+1871676010
+1871675910
+1299518507
+1299518007
+1299517907
+1299516307
+1299515807
+1299514907
+---0% --------20% --------40% --------60% --------80% -----/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872502004.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872502004.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872497104.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872497104.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872490903.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872490903.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872498804.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872498804.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871678010.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871678010.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871672310.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871672310.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871672410.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871672410.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8996121.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8996121.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298359107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298359107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299606007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299606007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871675510.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871675510.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871675610.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871675610.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871671910.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871671910.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872510510.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872510510.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871676610.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871676610.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872505904.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872505904.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8996122.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8996122.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872510610.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872510610.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872505804.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872505804.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872511310.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872511310.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299520607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299520607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299518707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299518707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871677910.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871677910.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871639304.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871639304.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872505704.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872505704.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871676510.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871676510.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872496904.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872496904.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872497704.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872497704.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298359007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298359007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1296922207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1296922207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298072507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298072507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298360007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298360007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298360107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298360107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298359607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298359607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298359407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298359407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298359307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298359307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995301.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995301.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995306.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995306.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995302.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995302.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995303.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995303.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995314.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995314.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995331.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995331.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995334.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995334.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871644104.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871644104.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870479835.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870479835.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870479935.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870479935.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870491143.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870491143.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870490943.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870490943.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8994622.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8994622.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8994623.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8994623.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8994610.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8994610.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8996267.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8996267.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8996264.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8996264.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299052807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299052807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299052707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299052707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872510410.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872510410.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872502904.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872502904.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872510310.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872510310.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872496804.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872496804.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872509810.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872509810.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872505404.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872505404.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872510210.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872510210.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872500404.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872500404.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872496704.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872496704.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872498704.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872498704.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872505304.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872505304.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872514310.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872514310.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872509710.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872509710.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872504604.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872504604.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871641304.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871641304.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871643504.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871643504.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871674210.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871674210.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872500304.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872500304.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872500204.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872500204.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872509410.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872509410.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871643704.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871643704.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871671310.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871671310.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872509310.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872509310.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872500004.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872500004.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871640804.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871640804.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872507304.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872507304.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871674010.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871674010.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872507104.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872507104.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872509210.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872509210.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872496404.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872496404.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872513810.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872513810.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872499904.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872499904.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872501504.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872501504.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872490703.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872490703.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298359707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298359707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298360207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298360207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299052507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299052507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299052607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299052607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871625512.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871625512.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872502604.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872502604.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872499304.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872499304.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872500104.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872500104.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872509010.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872509010.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872505104.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872505104.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872502504.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872502504.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872490803.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872490803.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872499804.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872499804.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872496004.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872496004.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872498204.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872498204.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872501304.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872501304.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872508910.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872508910.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872507004.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872507004.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872490603.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872490603.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871510214.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871510214.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871677510.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871677510.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871671110.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871671110.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872505004.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872505004.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872506904.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872506904.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872504904.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872504904.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872511810.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872511810.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299605507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299605507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299605707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299605707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299606107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299606107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872512410.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872512410.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871677410.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871677410.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872508710.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872508710.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871677810.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871677810.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871510414.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871510414.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995299.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995299.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871672610.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871672610.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872501204.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872501204.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872506804.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872506804.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872508810.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872508810.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872501104.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872501104.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872495804.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872495804.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872504704.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872504704.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872499504.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872499504.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872502304.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872502304.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871626812.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871626812.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872495704.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872495704.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871677310.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871677310.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298359907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298359907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298359507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298359507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299052907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299052907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299605607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299605607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871625812.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871625812.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872499704.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872499704.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872506704.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872506704.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871510314.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871510314.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872506604.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872506604.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872499604.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872499604.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872511610.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872511610.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872502204.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872502204.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871677710.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871677710.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871677610.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871677610.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872493703.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872493703.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872502104.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872502104.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995304.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995304.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872497804.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872497804.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872497604.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872497604.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872499404.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872499404.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299605807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299605807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872491403.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872491403.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995296.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995296.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872495504.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872495504.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871626012.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871626012.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872497504.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872497504.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872500904.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872500904.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872501904.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872501904.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872493903.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872493903.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872511410.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872511410.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872491503.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872491503.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1297647907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1297647907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298359807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298359807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299053007.tif here
+1299053007
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07//1299053007.tif
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298359207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298359207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299605907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299605907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872499204.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872499204.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872506404.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872506404.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872494103.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872494103.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872515210.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872515210.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871672210.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871672210.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872500704.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872500704.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872499104.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872499104.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872500804.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872500804.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872497404.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872497404.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872511510.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872511510.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872499004.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872499004.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871639404.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871639404.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872491003.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872491003.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871675410.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871675410.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872500604.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872500604.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871671810.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871671810.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872515610.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872515610.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872498904.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872498904.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872491203.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872491203.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872523914.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872523914.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299520507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299520507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872524214.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872524214.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872493603.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872493603.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872491903.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872491903.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872498504.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872498504.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872493803.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872493803.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872498004.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872498004.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872497304.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872497304.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872497004.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872497004.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872498304.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872498304.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872492103.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872492103.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872497904.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872497904.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872522114.tif here
+1872522114
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07//1872522114.tif
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872522214.tif here
+1872522214
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07//1872522214.tif
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872522314.tif here
+1872522314
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07//1872522314.tif
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872505604.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872505604.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872502804.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872502804.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872501604.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872501604.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872502704.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872502704.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872509910.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872509910.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872496604.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872496604.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872510110.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872510110.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872509610.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872509610.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872506504.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872506504.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872507504.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872507504.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872506304.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872506304.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872511710.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872511710.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872514710.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872514710.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872515010.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872515010.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872507404.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872507404.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872496304.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872496304.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871540303.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871540303.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871678410.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871678410.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871677110.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871677110.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871677010.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871677010.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871626212.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871626212.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871674410.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871674410.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871675710.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871675710.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871676810.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871676810.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871640504.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871640504.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871626412.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871626412.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871675010.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871675010.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871676910.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871676910.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871672110.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871672110.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871672010.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871672010.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871678310.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871678310.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872497204.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872497204.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872510810.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872510810.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872515510.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872515510.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872510710.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872510710.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995313.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995313.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995315.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995315.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995316.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995316.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995311.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8995311.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871540403.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871540403.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872511010.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872511010.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872515310.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872515310.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299606207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299606207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298358907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298358907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872510910.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872510910.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872515110.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872515110.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871678210.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871678210.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871674910.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871674910.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872511110.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872511110.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872511210.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872511210.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871676410.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871676410.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872515410.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1872515410.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871678110.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871678110.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871676310.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871676310.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299517107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299517107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871676210.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871676210.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871675810.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871675810.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299520707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299520707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871676710.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871676710.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871676110.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871676110.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871676010.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871676010.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871675910.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1871675910.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299518507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299518507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/null/
+08/08/2014
+Caught: java.io.FileNotFoundException: /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/404/Indexes.txt (No such file or directory)
+java.io.FileNotFoundException: /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/404/Indexes.txt (No such file or directory)
+	at tif_generation$_run_closure5.doCall(tif_generation.groovy:346)
+	at tif_generation.run(tif_generation.groovy:311)
+9
+07/30/2014
+
+
+1298364407
+1299046307
+1299055507
+1298363207
+1299046507
+1298363107
+1298409907
+1299045807
+1298364807
+1298363307
+1298410307
+1298410607
+1298410007
+1298362807
+1298364307
+1298363607
+1298363407
+1298362607
+1298409407
+1298363907
+1298410107
+1298409007
+1298362507
+1298364207
+1298363007
+1298409507
+1298362907
+1298410707
+1298409607
+1298409307
+1299056407
+1298410507
+1298409207
+1299056307
+1299055307
+1298409107
+1299056207
+1298407307
+1298410407
+1299055207
+1298410207
+1299055007
+1298401107
+1299062807
+1298409807
+1299054607
+1298364007
+1299046707
+1298364107bad
+1299046607bad
+1299046007
+1298362707
+1299046107
+1299056107
+1299046207
+1298408907
+1298408807
+1298409707
+1299054507
+1298363807
+1299046907
+1298408707
+1299055807
+1298468407
+1298468507
+1298470607
+1298470007
+1870477635
+1870477735
+1299055407
+1299054807
+1299056607
+1299056007
+1299055707
+1299056507
+1299119507
+1299056707
+1299119407
+1299117307
+1299054907
+1299117907
+1299055907
+1299055107
+1299054707
+1299045507
+1299047207
+1299046407
+1299045907
+1299046807
+1299045407
+1299045607
+1299045707
+1298405007
+1299065407
+1298408607
+1299047107
+1298363507
+1299047307
+1299062607
+---0% --------20% --------40% --------60% --------80% --------100% -----/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298364407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298364407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299046307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299046307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299055507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299055507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298363207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298363207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299046507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299046507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298363107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298363107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298409907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298409907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299045807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299045807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298364807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298364807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298363307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298363307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298410307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298410307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298410607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298410607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298410007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298410007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298362807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298362807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298364307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298364307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298363607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298363607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298363407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298363407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298362607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298362607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298409407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298409407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298363907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298363907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298410107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298410107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298409007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298409007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298362507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298362507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298364207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298364207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298363007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298363007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298409507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298409507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298362907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298362907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298410707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298410707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298409607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298409607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298409307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298409307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299056407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299056407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298410507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298410507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298409207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298409207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299056307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299056307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299055307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299055307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298409107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298409107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299056207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299056207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298407307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298407307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298410407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298410407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299055207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299055207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298410207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298410207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299055007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299055007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298401107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298401107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299062807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299062807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298409807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298409807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299054607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299054607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298364007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298364007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299046707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299046707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298364107.tif here
+1298364107
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07//1298364107.tif
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299046607.tif here
+1299046607
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07//1299046607.tif
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299046007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299046007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298362707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298362707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299046107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299046107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299056107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299056107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299046207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299046207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298408907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298408907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298408807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298408807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298409707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298409707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299054507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299054507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298363807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298363807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299046907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299046907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298408707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298408707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299055807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299055807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298468407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298468407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298468507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298468507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298470607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298470607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298470007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298470007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870477635.tif here
+1870477635
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07//1870477635.tif
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870477735.tif here
+1870477735
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07//1870477735.tif
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299055407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299055407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299054807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299054807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299056607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299056607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299056007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299056007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299055707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299055707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299056507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299056507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299119507.tif here
+1299119507
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07//1299119507.tif
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299056707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299056707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299119407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299119407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299117307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299117307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299054907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299054907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299117907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299117907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299055907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299055907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299055107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299055107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299054707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299054707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299045507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299045507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299047207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299047207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299046407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299046407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299045907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299045907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299046807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299046807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299045407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299045407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299045607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299045607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299045707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299045707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298405007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298405007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299065407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299065407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298408607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298408607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299047107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299047107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298363507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298363507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299047307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299047307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299062607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299062607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+10
+07/29/2014
+1298406607
+1299061907
+1299061807
+1869608957
+1298078707
+1298078807
+1298078607
+1298078907
+1298365207
+1298364907
+1298365407
+1298407907
+1298365707
+1298408407
+1298366207
+1298407707
+1298365907
+1298408007
+1298406807
+1298407607
+1298406507
+1298407007
+1298406407
+1299061707
+1298364507
+1298408207
+1299059507
+1298404907
+1299065307
+1298408307
+1299059607
+1298407507
+1299058807
+1298406307
+1299061607
+1298406107
+1299061107
+1298408507
+1299059807
+1298470507
+1299117407
+1869608757
+1298264907
+1299120907
+1299117707
+1298364707
+1298469707
+1298468707
+1298469907
+1298470107
+1298469307
+1298470207
+1298466907
+1298469107
+1298457907
+1298457307
+1298468607
+1869618957
+1869619157
+1869619257
+1869621157
+1869615357
+1299129807
+1870502943
+1870477535
+1870480035
+1870480335
+1870477135
+1870477235
+1870480535
+1870477335
+1869607557
+1869609757
+1869609857
+1869612157
+1298467407
+1298365507
+1869621357
+1869609957
+1298264807
+1869610057
+1869607357
+1869613157
+1869613257
+1869612857
+1869613757
+1869607257
+1299120207
+1299118207
+1299129307
+1299059707
+1299059007
+1299118007
+1299117807
+1299117607
+1299058907
+1299118607
+1299119307
+1299118507
+1299118407
+1299058707
+1869612457
+1869613057
+1869613557
+1299053507
+1869612057
+1299119607
+1298468307
+1299062007
+1869612357
+1298905607
+1869610157
+1869619957
+1869612657
+1869607757
+1869607857
+1869607157
+1869607457
+1869610257
+1298407207
+1298407107
+1299062507
+1299062407
+1299059307
+1298408107
+1299059407
+1869607657
+1869612757
+1869621757
+1869621857
+1869616157
+1869619657
+1298365107
+1299062307
+1299059207
+1298407807
+1299059107
+1869616257
+1869622157
+1869610657
+1869619457
+1869607957
+1869619557
+1298365007
+1298405107
+1298406907
+1299065507
+1299062207
+1299062107
+1869608057
+1869622357
+1869616357
+1298406707
+1298407407
+1869608257
+1299118807
+1869616457
+1869615557
+1869615657
+1869615757
+1869615957
+1299053107
+1298366107
+1299053207
+1298366007
+1299053307
+1299053407
+1298365807
+1299053607
+1298405707
+1298405607
+1298365607
+1298405307
+1298404807
+1298364607
+1298406207
+1299066107
+1299066007
+1299065707
+1299065207
+1299061507
+1298405407
+1299065807
+1299061407
+1869610857
+1870499250
+1298468807
+1299119107
+1298405207
+1299065607
+1870504443
+1298470307
+1298469007
+1299118907
+1298405507
+1298406007
+1299065907
+1299061307
+1298405807
+1298469807
+1299118107
+1298405907
+1299061207
+1298468907
+1299119007
+1298470407
+1299117507
+1298905507
+1299119207
+1298469507
+1298469607
+1299118307
+1298469407
+1869623157
+1870480235
+1869619357
+1869618657
+1869618757
+1869618857
+1869610357
+1869610757
+1869611057
+1869613957
+1869614157
+1869612257
+1869608157
+1869608357
+1869608657
+1869622457
+1869622757
+1869622957
+1869621257
+---0% --------20% --------40% --------60% --------80% --------100% -----/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298406607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298406607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299061907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299061907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299061807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299061807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869608957.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869608957.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298078707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298078707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298078807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298078807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298078607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298078607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298078907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298078907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298365207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298365207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298364907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298364907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298365407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298365407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298407907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298407907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298365707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298365707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298408407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298408407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298366207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298366207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298407707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298407707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298365907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298365907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298408007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298408007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298406807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298406807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298407607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298407607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298406507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298406507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298407007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298407007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298406407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298406407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299061707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299061707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298364507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298364507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298408207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298408207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299059507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299059507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298404907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298404907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299065307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299065307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298408307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298408307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299059607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299059607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298407507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298407507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299058807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299058807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298406307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298406307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299061607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299061607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298406107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298406107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299061107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299061107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298408507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298408507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299059807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299059807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298470507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298470507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299117407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299117407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869608757.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869608757.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298264907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298264907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299120907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299120907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299117707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299117707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298364707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298364707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298469707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298469707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298468707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298468707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298469907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298469907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298470107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298470107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298469307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298469307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298470207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298470207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298466907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298466907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298469107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298469107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298457907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298457907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298457307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298457307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298468607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298468607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869618957.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869618957.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869619157.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869619157.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869619257.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869619257.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869621157.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869621157.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869615357.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869615357.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299129807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299129807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870502943.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870502943.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870477535.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870477535.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870480035.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870480035.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870480335.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870480335.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870477135.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870477135.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870477235.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870477235.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870480535.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870480535.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870477335.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870477335.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869607557.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869607557.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869609757.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869609757.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869609857.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869609857.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869612157.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869612157.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298467407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298467407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298365507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298365507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869621357.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869621357.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869609957.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869609957.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298264807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298264807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869610057.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869610057.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869607357.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869607357.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869613157.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869613157.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869613257.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869613257.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869612857.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869612857.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869613757.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869613757.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869607257.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869607257.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299120207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299120207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299118207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299118207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299129307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299129307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299059707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299059707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299059007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299059007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299118007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299118007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299117807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299117807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299117607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299117607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299058907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299058907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299118607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299118607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299119307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299119307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299118507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299118507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299118407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299118407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299058707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299058707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869612457.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869612457.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869613057.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869613057.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869613557.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869613557.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299053507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299053507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869612057.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869612057.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299119607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299119607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298468307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298468307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299062007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299062007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869612357.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869612357.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298905607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298905607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869610157.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869610157.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869619957.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869619957.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869612657.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869612657.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869607757.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869607757.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869607857.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869607857.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869607157.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869607157.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869607457.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869607457.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869610257.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869610257.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298407207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298407207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298407107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298407107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299062507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299062507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299062407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299062407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299059307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299059307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298408107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298408107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299059407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299059407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869607657.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869607657.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869612757.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869612757.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869621757.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869621757.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869621857.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869621857.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869616157.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869616157.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869619657.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869619657.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298365107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298365107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299062307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299062307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299059207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299059207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298407807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298407807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299059107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299059107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869616257.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869616257.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869622157.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869622157.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869610657.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869610657.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869619457.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869619457.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869607957.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869607957.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869619557.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869619557.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298365007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298365007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298405107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298405107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298406907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298406907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299065507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299065507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299062207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299062207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299062107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299062107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869608057.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869608057.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869622357.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869622357.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869616357.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869616357.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298406707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298406707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298407407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298407407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869608257.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869608257.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299118807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299118807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869616457.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869616457.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869615557.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869615557.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869615657.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869615657.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869615757.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869615757.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869615957.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869615957.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299053107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299053107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298366107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298366107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299053207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299053207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298366007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298366007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299053307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299053307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299053407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299053407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298365807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298365807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299053607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299053607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298405707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298405707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298405607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298405607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298365607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298365607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298405307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298405307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298404807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298404807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298364607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298364607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298406207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298406207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299066107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299066107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299066007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299066007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299065707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299065707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299065207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299065207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299061507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299061507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298405407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298405407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299065807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299065807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299061407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299061407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869610857.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869610857.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870499250.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870499250.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298468807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298468807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299119107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299119107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298405207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298405207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299065607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299065607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870504443.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870504443.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298470307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298470307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298469007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298469007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299118907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299118907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298405507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298405507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298406007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298406007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299065907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299065907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299061307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299061307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298405807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298405807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298469807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298469807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299118107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299118107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298405907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298405907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299061207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299061207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298468907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298468907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299119007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299119007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298470407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298470407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299117507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299117507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298905507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298905507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299119207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299119207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298469507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298469507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298469607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298469607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299118307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299118307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298469407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298469407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869623157.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869623157.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870480235.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1870480235.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869619357.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869619357.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869618657.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869618657.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869618757.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869618757.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869618857.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869618857.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869610357.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869610357.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869610757.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869610757.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869611057.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869611057.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869613957.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869613957.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869614157.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869614157.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869612257.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869612257.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869608157.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869608157.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869608357.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869608357.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869608657.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869608657.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869622457.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869622457.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869622757.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869622757.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869622957.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869622957.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869621257.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1869621257.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/ATL/
+08/08/2014
+11
+07/28/2014
+
+8904016
+8904017
+8913443
+1298079507
+1298079207
+1298079807
+1298079407
+1298079007
+1298080207
+1298080007
+1298079107
+1298079607
+1298079307
+1298400407
+1298403207
+1298367607
+1298366507
+1298403007
+1298367507
+1298367907
+1298401007
+1298366607
+1298401707
+1298367307
+1298367007
+1298404307
+1298403907
+1298404507
+1298402807
+1298401407
+1299063107
+1298404607
+1299067207
+1298403807
+1298265007
+1298265607
+1298463607
+1869654457
+1298366807
+1298366707
+1299053807
+1299050607
+1299050707
+1298403607
+1298401507
+1299063207
+1298463307
+1298463507
+1298464607
+1298459907
+1298460007
+1298463407
+1298464507
+1298461007
+1298465807
+1298463207
+1298467607
+1869649957
+1299050807
+1298403507
+1298403707
+1299066307
+1869649857
+1869646257
+1298460307
+1870490074
+1869641133
+1298080107
+1299054107
+1299050907
+1299066407
+1298401607
+1299063307
+1869653357
+1869654657
+1870490174
+1870490372
+1298463807
+1299127707
+1298467507
+1869640433
+1298367707
+1298366407
+1299054007
+1869641352
+1299054207
+1299051007
+1298404007
+1298401807
+1299063507
+1870891474
+1870891574
+1298901407
+1869641233
+1869646457
+1298079907
+1298366307
+1299054407
+1299051107
+1298465607
+1298457407
+1299120107
+1870489074
+1870489674
+1870915474
+1298463707
+1299127807
+1298460807
+8904015
+1298267907
+8942684
+8942685
+8942686
+1870915274
+1869652657
+1869654857
+1298404107
+1299066907
+1299066707
+1298404207
+1299066807
+1869654357
+1298902507
+1870490274
+1298367407
+1299054307
+1298404407
+1299067007
+1298401907
+1299063607
+1869650257
+1298267807
+1298902607
+1869640532
+1298402907
+1299067107
+1298268707
+1298901707
+1869654957
+8899646
+000null
+1298402207
+1298402107
+1299063907
+1299063807
+1298404707
+1299067307
+1869654557
+8913444
+8913445
+1870489774
+1870489972
+1298461207
+1299123107
+1870736072
+1298402007
+1299063707
+1870982674
+1870735974
+1870735374
+1870735174
+1870735774
+1870735672
+1870489872
+1299127007
+1298901007
+1870735572
+1298460207
+1299124107
+1299128807
+1298402607
+1298900807
+1298462907
+1298402507
+1298401207
+1299062907
+1298367207
+1299050207
+1298269007
+1298270307
+1869641452
+1869640652
+1869654757
+1869645657
+1869645457
+1869645157
+1299128207
+1299128007
+1299123507
+1299124407
+1299126907
+1299124007
+1299128107
+1299129007
+1299123307
+1299124207
+1299131507
+1299126107
+1299131407
+1299126407
+1870735874
+1870735474
+1869645057
+1299050507
+1299050407
+1298367107
+1299050307
+1298490607
+1299165707
+1298490707
+1299165607
+1299127907
+1299066207
+1299063407
+1299066607
+1299066507
+1298366907
+1869645257
+1869640933
+1869654257
+1298080307
+1298367807
+1299053907
+1298401307
+1299063007
+1869641033
+1869645757
+1298905307
+1298905407
+1298904907
+1298265207
+1298265107
+1298904807
+1298265507
+1298905207
+1298900107
+1298900707
+1298900907
+1298900607
+1298460107
+1298460907
+1299123407
+1299062707
+1298402307
+1299064007
+1299057507bad
+1299124307
+1298490907
+1299165407
+1298491007
+1299165307
+1298491107
+1299165207
+1869652557
+1869650057
+1869646057
+1869646357
+---0% --------20% --------40% --------60% --------80% --------100% -----/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8904016.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8904016.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8904017.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8904017.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8913443.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/8913443.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/RDS/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298079507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298079507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298079207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298079207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298079807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298079807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298079407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298079407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298079007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298079007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298080207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298080207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298080007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298080007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298079107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298079107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298079607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298079607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298079307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298079307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298400407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298400407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298403207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298403207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298367607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298367607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298366507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298366507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298403007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298403007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298367507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298367507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298367907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298367907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298401007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298401007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298366607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298366607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298401707.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298401707.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298367307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298367307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298367007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298367007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298404307.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298404307.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298403907.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298403907.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298404507.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298404507.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298402807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298402807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298401407.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298401407.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299063107.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299063107.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298404607.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298404607.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299067207.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1299067207.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298403807.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298403807.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/JAK/
+08/08/2014
+/Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298265007.tif here
+cp /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiff/2014/07/1298265007.tif /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/null/
+08/08/2014
+Caught: java.io.FileNotFoundException: /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/404/Indexes.txt (No such file or directory)
+java.io.FileNotFoundException: /Volumes/SeagateBackupPlusDrive/1stChoice/TNG/tiffCurrent/404/Indexes.txt (No such file or directory)
+	at tif_generation$_run_closure5.doCall(tif_generation.groovy:346)
+	at tif_generation.run(tif_generation.groovy:311)
+12
+07/27/2014
+13
+07/26/2014

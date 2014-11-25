@@ -1,0 +1,5 @@
+"223_Images","223_Images","DOCNO","0346734","SHIPTO","1307501802","DATE","05/12/2014","ftp2.tng.com \3PL_images\223\1307501802.tif","D"
+"223_Images","223_Images","DOCNO","0346513","SHIPTO","1307504302","DATE","05/12/2014","ftp2.tng.com \3PL_images\223\1307504302.tif","D"
+"223_Images","223_Images","DOCNO","0346706","SHIPTO","1307501502","DATE","05/12/2014","ftp2.tng.com \3PL_images\223\1307501502.tif","D"
+"223_Images","223_Images","DOCNO","0346753","SHIPTO","1307501602","DATE","05/12/2014","ftp2.tng.com \3PL_images\223\1307501602.tif","D"
+"223_Images","223_Images","DOCNO","0290686","SHIPTO","1307501702","DATE","05/12/2014","ftp2.tng.com \3PL_images\223\1307501702.tif","D"

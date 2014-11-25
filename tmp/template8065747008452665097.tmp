@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+   
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  <style> 
+    @page land {size:landscape; }
+    .landscapePage { page:land; width: 29.7cm; }
+  
+  </style>
+  </head>
+  <div class="landscapePage">
+  <body>
+
+
+    <table width="1000px">
+
+    	<tr>
+        	<td width="500px" valign="top">
+             <p>Delivered by:</p>
+             <div style="padding-left:50px">
+             	1st Choice for TNG<br/>
+                LAS Branch <br/>
+                Route # 1513 <br/>
+                <br />
+            
+                Planned Delivery Date: 2014-08-25<br/>
+                Delivery Time: null<br/>
+                Customer #:    0883009<br/> 
+                Invoice #:  1148073503 <br/>
+                Signed by: Elvin      	
+         
+        
+            </div></td>
+        
+        
+            <td width="500px" valign="top">
+            	<p>Delivered to:</p>
+                <div style="padding-left:50px">
+             	TARGET 1462 VEN#1121522 SBT<br/>
+                6480 SKY POINTE DR <br/>
+                LAS VEGAS, NV, 89131 <br/>
+            
+                <img src="/Users/ghonig/Projects/1stChoice/TNG/TNG/Error"/> 
+             </div>
+        
+            </td>
+        </tr>
+    
+    </table>
+
+
+    <div style="padding-left:30px; width:1000px">
+    	<div>Container #'s</div>
+
+        <div style="padding-left:30px">
+        	<table>
+        	   <tr> <td> 00006870952418996198 </td></tr>  <tr> <td> 00006870952418996181 </td></tr>  <tr> <td> 00006870952418996174 </td></tr>  <tr> <td> 00006870952418996167 </td></tr>  <tr> <td> 00006870952418996150 </td></tr>  <tr> <td> 00006870952418996143 </td></tr>  <tr> <td> 00006870952418996136 </td></tr>  <tr> <td> 00006870952418996129 </td></tr> 
+
+          </table>
+        </div>
+    </div>
+    
+  </body>
+  </div>
+
+</html>

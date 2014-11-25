@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+   
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  <style> 
+    @page land {size:landscape; }
+    .landscapePage { page:land; width: 29.7cm; }
+  
+  </style>
+  </head>
+  <div class="landscapePage">
+  <body>
+
+
+    <table width="1000px">
+
+    	<tr>
+        	<td width="500px" valign="top">
+             <p>Delivered by:</p>
+             <div style="padding-left:50px">
+             	1st Choice for TNG<br/>
+                IGM Branch <br/>
+                Route # 4533 <br/>
+                <br />
+            
+                Planned Delivery Date: 2014-09-04<br/>
+                Delivery Time: null<br/>
+                Customer #:    0202051<br/> 
+                Invoice #:  1148714403 <br/>
+                Signed by: Drew Morris      	
+         
+        
+            </div></td>
+        
+        
+            <td width="500px" valign="top">
+            	<p>Delivered to:</p>
+                <div style="padding-left:50px">
+             	WALMART #2051 SBT<br/>
+                3396 STOCKTON HILL RD <br/>
+                KINGMAN, AZ, 86409 <br/>
+            
+                <img src="/Users/ghonig/Projects/1stChoice/TNG/TNG/Error"/> 
+             </div>
+        
+            </td>
+        </tr>
+    
+    </table>
+
+
+    <div style="padding-left:30px; width:1000px">
+    	<div>Container #'s</div>
+
+        <div style="padding-left:30px">
+        	<table>
+        	   <tr> <td> 00006870952419052848 </td></tr>  <tr> <td> 00006870952419052831 </td></tr>  <tr> <td> 00006870952419052824 </td></tr>  <tr> <td> 00006870952419052817 </td></tr>  <tr> <td> 00006870952419052800 </td></tr>  <tr> <td> 00006870952419052794 </td></tr>  <tr> <td> 00006870952419052787 </td></tr>  <tr> <td> 00006870952419052770 </td></tr>  <tr> <td> 00006870952419052763 </td></tr>  <tr> <td> 00006870952419052756 </td></tr>  <tr> <td> 00006870952419052749 </td></tr>  <tr> <td> 00006870952419052732 </td></tr>  <tr> <td> 00006870952419052725 </td></tr>  <tr> <td> 00006870952419052718 </td></tr>  <tr> <td> 00006870952419052701 </td></tr>  <tr> <td> 00006870952419052695 </td></tr>  <tr> <td> 00006870952419052688 </td></tr>  <tr> <td> 00006870952419052671 </td></tr>  <tr> <td> 00006870952419052664 </td></tr>  <tr> <td> 00006870952419052657 </td></tr>  <tr> <td> 00006870952419052640 </td></tr> 
+
+          </table>
+        </div>
+    </div>
+    
+  </body>
+  </div>
+
+</html>

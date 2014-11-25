@@ -1,0 +1,49 @@
+logs/log-2014-06-13.log
+logs/log-MarkIII-2014-06-13.log
+logs/log-2014-06-13.log
+logs/log-MarkIII-2014-06-13.log
+rm: cannot remove `/u/1stChoice/Share/TNG/tiffCurrent/404/*': No such file or directory
+rm: cannot remove `/u/1stChoice/Share/TNG/tiffCurrent/ATL/*': No such file or directory
+rm: cannot remove `/u/1stChoice/Share/TNG/tiffCurrent/SAC/*': No such file or directory
+/mnt/SOURCE/TNG/ManualSignaturesGoHere/WE061414
+logs/log-2014-07-04.log
+logs/log-MarkIII-2014-07-04.log
+rm: cannot remove `/u/1stChoice/Share/TNG/tiffCurrent/404/*': No such file or directory
+rm: cannot remove `/u/1stChoice/Share/TNG/tiffCurrent/ATL/*': No such file or directory
+rm: cannot remove `/u/1stChoice/Share/TNG/tiffCurrent/SAC/*': No such file or directory
+/mnt/SOURCE/TNG/ManualSignaturesGoHere/WE062014
+Caught: org.postgresql.util.PSQLException: The connection attempt failed.
+org.postgresql.util.PSQLException: The connection attempt failed.
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:136)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:66)
+	at org.postgresql.jdbc2.AbstractJdbc2Connection.<init>(AbstractJdbc2Connection.java:125)
+	at org.postgresql.jdbc3.AbstractJdbc3Connection.<init>(AbstractJdbc3Connection.java:30)
+	at org.postgresql.jdbc3.Jdbc3Connection.<init>(Jdbc3Connection.java:24)
+	at org.postgresql.Driver.makeConnection(Driver.java:382)
+	at org.postgresql.Driver.connect(Driver.java:260)
+	at tngMissingSignatures.run(tngMissingSignatures.groovy:102)
+Caused by: java.net.NoRouteToHostException: No route to host
+	at org.postgresql.core.PGStream.<init>(PGStream.java:59)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:77)
+	... 7 more
+logs/log-2014-07-12.log
+logs/log-MarkIII-2014-07-12.log
+logs/log-2014-07-14.log
+logs/log-MarkIII-2014-07-14.log
+rm: cannot remove `/u/1stChoice/Share/TNG/tiffCurrent/404/*': No such file or directory
+rm: cannot remove `/u/1stChoice/Share/TNG/tiffCurrent/ATL/*': No such file or directory
+rm: cannot remove `/u/1stChoice/Share/TNG/tiffCurrent/SAC/*': No such file or directory
+/mnt/SOURCE/TNG/ManualSignaturesGoHere/WE
+Caught: org.postgresql.util.PSQLException: FATAL: password authentication failed for user "postgres"
+org.postgresql.util.PSQLException: FATAL: password authentication failed for user "postgres"
+	at org.postgresql.core.v3.ConnectionFactoryImpl.doAuthentication(ConnectionFactoryImpl.java:275)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:94)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:66)
+	at org.postgresql.jdbc2.AbstractJdbc2Connection.<init>(AbstractJdbc2Connection.java:125)
+	at org.postgresql.jdbc3.AbstractJdbc3Connection.<init>(AbstractJdbc3Connection.java:30)
+	at org.postgresql.jdbc3.Jdbc3Connection.<init>(Jdbc3Connection.java:24)
+	at org.postgresql.Driver.makeConnection(Driver.java:382)
+	at org.postgresql.Driver.connect(Driver.java:260)
+	at tngMissingSignatures.run(tngMissingSignatures.groovy:102)
+nohup: TNGTiffMakeup.bash: No such file or directory
+nohup: TNGTiffMakeup.bash: No such file or directory

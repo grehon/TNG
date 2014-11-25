@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+   
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  <style> 
+    @page land {size:landscape; }
+    .landscapePage { page:land; width: 29.7cm; }
+  
+  </style>
+  </head>
+  <div class="landscapePage">
+  <body>
+
+
+    <table width="1000px">
+
+    	<tr>
+        	<td width="500px" valign="top">
+             <p>Delivered by:</p>
+             <div style="padding-left:50px">
+             	1st Choice for TNG<br/>
+                IND Branch <br/>
+                Route # 1654 <br/>
+                <br />
+            
+                Planned Delivery Date: 2014-08-11<br/>
+                Delivery Time: null<br/>
+                Customer #:    0203781<br/> 
+                Invoice #:  1301089907 <br/>
+                Signed by: No Run      	
+         
+        
+            </div></td>
+        
+        
+            <td width="500px" valign="top">
+            	<p>Delivered to:</p>
+                <div style="padding-left:50px">
+             	WALMART #3781 SBT<br/>
+                4545 LAFAYETTE RD <br/>
+                INDIANAPOLIS, IN, 46254 <br/>
+            
+                <img src="/Users/ghonig/Projects/1stChoice/TNG/TNG/Error"/> 
+             </div>
+        
+            </td>
+        </tr>
+    
+    </table>
+
+
+    <div style="padding-left:30px; width:1000px">
+    	<div>Container #'s</div>
+
+        <div style="padding-left:30px">
+        	<table>
+        	   <tr> <td> 00006870950888725898 </td></tr>  <tr> <td> 00006870950888725881 </td></tr>  <tr> <td> 00006870950888725874 </td></tr>  <tr> <td> 00006870950888725867 </td></tr>  <tr> <td> 00006870950888725850 </td></tr>  <tr> <td> 00006870950888725843 </td></tr>  <tr> <td> 00006870950888725836 </td></tr>  <tr> <td> 00006870950888725829 </td></tr>  <tr> <td> 00006870950888725812 </td></tr>  <tr> <td> 00006870950888725805 </td></tr>  <tr> <td> 00006870950888725799 </td></tr>  <tr> <td> 00006870950888725782 </td></tr> 
+
+          </table>
+        </div>
+    </div>
+    
+  </body>
+  </div>
+
+</html>

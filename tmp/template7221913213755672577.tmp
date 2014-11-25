@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+   
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  <style> 
+    @page land {size:landscape; }
+    .landscapePage { page:land; width: 29.7cm; }
+  
+  </style>
+  </head>
+  <div class="landscapePage">
+  <body>
+
+
+    <table width="1000px">
+
+    	<tr>
+        	<td width="500px" valign="top">
+             <p>Delivered by:</p>
+             <div style="padding-left:50px">
+             	1st Choice for TNG<br/>
+                PHX Branch <br/>
+                Route # 2566 <br/>
+                <br />
+            
+                Planned Delivery Date: 2014-08-19<br/>
+                Delivery Time: null<br/>
+                Customer #:    0407387<br/> 
+                Invoice #:  1203570805 <br/>
+                Signed by: Ash Spring      	
+         
+        
+            </div></td>
+        
+        
+            <td width="500px" valign="top">
+            	<p>Delivered to:</p>
+                <div style="padding-left:50px">
+             	WALGREENS #07387 SBT<br/>
+                10710 W MCDOWELL RD <br/>
+                AVONDALE, AZ, 85392 <br/>
+            
+                <img src="/Users/ghonig/Projects/1stChoice/TNG/TNG/Error"/> 
+             </div>
+        
+            </td>
+        </tr>
+    
+    </table>
+
+
+    <div style="padding-left:30px; width:1000px">
+    	<div>Container #'s</div>
+
+        <div style="padding-left:30px">
+        	<table>
+        	   <tr> <td> 00006870952609613323 </td></tr> 
+
+          </table>
+        </div>
+    </div>
+    
+  </body>
+  </div>
+
+</html>

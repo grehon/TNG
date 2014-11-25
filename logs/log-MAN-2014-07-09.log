@@ -1,0 +1,4 @@
+nohup: ignoring input
+Caught: java.io.FileNotFoundException: bol2014-07-09.process (No such file or directory)
+java.io.FileNotFoundException: bol2014-07-09.process (No such file or directory)
+	at tif_generation_man_sig_markII.run(tif_generation_man_sig_markII.groovy:86)

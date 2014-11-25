@@ -1,0 +1,20 @@
+8
+09/19/2014
+
+
+Caught: java.io.FileNotFoundException: pdf/bad/1308416807.pdf (No such file or directory)
+java.io.FileNotFoundException: pdf/bad/1308416807.pdf (No such file or directory)
+	at tif_generation_MarkIII$_run_closure2.doCall(tif_generation_MarkIII.groovy:215)
+	at tif_generation_MarkIII.run(tif_generation_MarkIII.groovy:192)
+9
+09/18/2014
+---0%------20%------40%------60%------80%------100%---10
+09/17/2014
+11
+09/16/2014
+12
+09/15/2014
+13
+09/14/2014
+14
+09/13/2014

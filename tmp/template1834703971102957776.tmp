@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+   
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  <style> 
+    @page land {size:landscape; }
+    .landscapePage { page:land; width: 29.7cm; }
+  
+  </style>
+  </head>
+  <div class="landscapePage">
+  <body>
+
+
+    <table width="1000px">
+
+    	<tr>
+        	<td width="500px" valign="top">
+             <p>Delivered by:</p>
+             <div style="padding-left:50px">
+             	1st Choice for TNG<br/>
+                PHX Branch <br/>
+                Route # 4609 <br/>
+                <br />
+            
+                Planned Delivery Date: 2014-08-28<br/>
+                Delivery Time: null<br/>
+                Customer #:    0501149<br/> 
+                Invoice #:  1204493205 <br/>
+                Signed by: Judy      	
+         
+        
+            </div></td>
+        
+        
+            <td width="500px" valign="top">
+            	<p>Delivered to:</p>
+                <div style="padding-left:50px">
+             	WALMART #1149 SBT<br/>
+                755 S 20TH AVE <br/>
+                SAFFORD, AZ, 85546 <br/>
+            
+                <img src="/Users/ghonig/Projects/1stChoice/TNG/TNG/Error"/> 
+             </div>
+        
+            </td>
+        </tr>
+    
+    </table>
+
+
+    <div style="padding-left:30px; width:1000px">
+    	<div>Container #'s</div>
+
+        <div style="padding-left:30px">
+        	<table>
+        	   <tr> <td> 00006870952609810579 </td></tr> 
+
+          </table>
+        </div>
+    </div>
+    
+  </body>
+  </div>
+
+</html>
