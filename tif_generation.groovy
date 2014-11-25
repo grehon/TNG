@@ -339,8 +339,8 @@ delList.each{ delkey ->
 
      	 if (TNGCity.containsKey(deliveries[delkey].lineItemReference )){ 
              indexOutput = '\"' + deliveries[delkey].lineItemReference +'_Images\",' + '\"' + deliveries[delkey].lineItemReference +'_Images\",' +
-                   '\"DOCNO\",' + '\"' + deliveries[delkey].customerReference + '\",' +
-                   '\"SHIPTO\",' + '\"' + deliveries[delkey].bolNumber + '\",' +
+                   '\"DOCNO\",' + '\"' + deliveries[delkey].bolNumber + '\",' +
+                   '\"SHIPTO\",' + '\"' + deliveries[delkey].customerReference + '\",' +
                    '\"DATE\",' + '\"' + todayString + '\",' + 
                    '\"ftp2.tng.com \\3PL_images\\'+ deliveries[delkey].lineItemReference+ '\\' + deliveries[delkey].bolNumber + '.tif\",' + 
                    '\"D\"'
@@ -348,8 +348,8 @@ delList.each{ delkey ->
 
 		 } else {
 		     indexOutput = '\"' + deliveries[delkey].lineItemReference +'_Images\",' + '\"' + deliveries[delkey].lineItemReference +'_Images\",' +
-                    '\"DOCNO\",' + '\"' + deliveries[delkey].customerReference + '\",' +
-                    '\"SHIPTO\",' + '\"' + deliveries[delkey].bolNumber + '\",' +
+                    '\"DOCNO\",' + '\"' + deliveries[delkey].bolNumber + '\",' +
+                    '\"SHIPTO\",' + '\"' + deliveries[delkey].customerReference + '\",' +
                     '\"DATE\",' + '\"' + todayString + '\",' + 
                     '\"ftp2.tng.com \\3PL_images\\'+ deliveries[delkey].lineItemReference +'\\' + deliveries[delkey].bolNumber + '.tif\",' + 
                     '\"D\"'
