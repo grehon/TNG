@@ -1,4 +1,0 @@
-user ftpveterans p@ss4v3ter@ns
-open ftp2.tng.com
-cd images
-ls -R
